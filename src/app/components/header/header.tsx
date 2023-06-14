@@ -5,7 +5,7 @@ export function Header(){
   return(
     <div className="header">
       <div>
-        <h1>Hi, I'm Caldas!👋</h1>
+        <h1>Hi, I&lsquo;m Caldas!👋</h1>
         <h2>Front-End Developer</h2>
         <h3>(this personal site is a project to test responsiveness and componentization in React)</h3>
       </div>
